@@ -118,3 +118,7 @@ Daim Ali
 ## ⭐ Support
 
 If you like this project, give it a star on GitHub.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daim_Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daimx1214/)
